@@ -5,7 +5,4 @@
 
  Visit www.leetcode.com for more detail on the questions
  
- Master changes 1
-
- 
 total rebase
