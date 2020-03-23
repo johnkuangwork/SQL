@@ -1,4 +1,10 @@
 
+-- Process
+--1. We firstly find out the first_player and the Second Player score
+--2. Union the two above
+--3. Sum up the total score by player_id
+--4. Rank the total score by DESC and player_id by ASC
+
 select
 	Z.group_id,
 	Z.player as player_id
