@@ -3,4 +3,4 @@
  
  This is a collection of SQL solutions to LeetCode Challenges including to create necessary Tables in Microsoft SQL Server Management Studio
  
- Changes to 1
+ Visit www.leetcode.com for more detail on the questions
