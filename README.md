@@ -8,6 +8,4 @@
  Master changes 1
 
  
- branch 1 edits
- 
- branch 1 edits 2
+total rebase
