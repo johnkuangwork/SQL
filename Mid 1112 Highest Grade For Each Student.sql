@@ -14,3 +14,4 @@ from
 from 
 Enrollments) X
 where X.rankgrade=1
+order by X.student_id ASC
